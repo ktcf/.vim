@@ -14,5 +14,6 @@ set shiftwidth=2
 set expandtab
 set smartindent
 set autoindent
+set backspace=indent,eol,start
 
 set showmatch
