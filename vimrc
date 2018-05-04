@@ -1,6 +1,6 @@
 filetype on
 syntax on
-colorscheme base16-classic-dark
+colorscheme solarized
 
 set colorcolumn=90
 set number
