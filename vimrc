@@ -1,15 +1,15 @@
 filetype on
 syntax on
 
-set colorcolumn=90
+set colorcolumn=80
 set number
 
 set history=100
 
 filetype indent on
 set nowrap
-set tabstop=2
-set shiftwidth=2
+set tabstop=4
+set shiftwidth=4
 set expandtab
 set smartindent
 set autoindent
